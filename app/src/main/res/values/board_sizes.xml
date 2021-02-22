@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="brd_sizes">
+        <item>4 x 6</item>
+        <item>5 x 10</item>
+        <item>6 x 15</item>
+    </string-array>
+
+</resources>
